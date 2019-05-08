@@ -1,2 +1,2 @@
 # literate-octo-spork
-Min första sida, we are all noobs,
+Idén av denna sida är att skapa en sida där jag kan skriva det jag vill skriva och har i mitt huvud.
